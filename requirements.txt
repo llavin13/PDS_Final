@@ -1,0 +1,15 @@
+jupyter
+torch
+numpy
+matplotlib
+os
+pandas
+re
+nltk
+sklearn
+seaborn
+random
+geopandas
+descartes
+scipy
+statsmodels
